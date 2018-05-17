@@ -20,7 +20,7 @@ After installing requirements and downloading jupyter notebook and imgs dataset,
 Use this link:  https://www.kaggle.com/c/5048/download/imgs.zip
 
 
-## Video demo link:
+## Video demo link:  https://youtu.be/KlSz2jSAh-4
 
 Requirements list:
 absl-py==0.1.12
