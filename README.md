@@ -16,11 +16,11 @@ Using 64x64 rescaled images, the model produced training accuracy of 98% and a t
 ## How to run code:
 After installing requirements and downloading jupyter notebook and imgs dataset, run the notebook using a jupyter notebook instance.
 
-To download data...
+## To download data...
 Use this link:  https://www.kaggle.com/c/5048/download/imgs.zip
 
 
-Video demo link:
+## Video demo link:
 
 Requirements list:
 absl-py==0.1.12
